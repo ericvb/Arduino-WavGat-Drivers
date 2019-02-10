@@ -2,9 +2,7 @@
 
 I started from the given drivers from WavGat via the AliExpress website: https://drive.google.com/open?id=10gwrG9uTDwaEO-7EudsmBkfgdcyrcABI
 
-I installed the drivers in the Arduino IDE project (1.8.1+)
-You can do that by copying them into the created user extension folder from the Arduino IDE.
-On windows, normally in Documents\Arduino
+Install them into the created user extension folder from the Arduino IDE. On windows, normally in Documents\Arduino
 
 When trying to compile the basic sketch about the blinking led, the compiler did give me a warning:
 
