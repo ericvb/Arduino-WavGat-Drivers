@@ -22,5 +22,7 @@ I added also a missing new define 'void yield(void)' in the core Arduino.h file 
 
 After these changes my sketches for MySensors did compile without any errors.
 
+In this distribution the hardware folder WEV8F is not included, it is for the Arduino IDE 1.x version!
+
 As the Arduino IDE will evolve in the future, other needs to change these WavGat drivers will appear.
 It's a bit sad that WavGat doesn't keep its software up to date!
