@@ -26,6 +26,7 @@ As the Arduino IDE will evolve in the future, other needs to change these WavGat
 It's a bit sad that WavGat doesn't keep its software up to date!
 
 **UPDATE**
+
 Be aware that big arduino sketches with external libraries will not compile, despite my changes.
 Simple sketches will compile, for example the led blinking sketch will work, but when you want something more like for example extend the arduino hardware with a ehternet shield and then try to use it, good luck :-(. You will get a bunch of compile errors.
 Not being a compiler specialist, I gave up on my 2 euro WAVGAT board and bought a new, also 2 euro, Arduino compatible board...
